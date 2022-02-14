@@ -1,5 +1,5 @@
    
-/*slug generator by alfatechnesia.com (zidarma) to appreciate us, please don't delete this credit*/
+/* slug generator by alfatechnesia.com (zidarma) to appreciate us, please don't delete this credit */
 function myFunction() {
         var a = document.getElementById("slug-source").value;
 
