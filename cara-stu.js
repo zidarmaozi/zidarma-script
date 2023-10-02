@@ -1,5 +1,3 @@
-<p id="cara-link"></p>
-<script>
 document.getElementById("cara-link").innerHTML = `
 <p>Berikut ini adalah cara melewati link Subs4unlock di adirga.com</p>
 <ol class="step">
@@ -15,4 +13,3 @@ document.getElementById("cara-link").innerHTML = `
     <li><div class="separator" style="clear: both;"><img alt="" border="0" data-original-height="1190" data-original-width="1079" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhVoC1S6O25vSHg6y6IVlsYUbBcCevLs254t694YnzZZmxBDLcLC2g-3TkdAAnOJ6pC0fhMr31UrpteiQ_kFL43t2LU1eqbblVmo_a3WDNAQyylWUHPCO2wqSfVYCfr2_SfMDrUCygXnWqdM5cMnPpnyY8UafTo8GyU75ekyLYvjwGccBvhS7BffqdIdtY/s1600/Screenshot_2023-10-02-12-45-25-054_com.android.chrome.png"/></div></li>
   <li>Selesai</li></ol>
 `;
-</script>
