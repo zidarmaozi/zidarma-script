@@ -1,4 +1,5 @@
 document.getElementById("cara-link").innerHTML = `
+<p class="note wr notranslate">Link yang anda tuju tidak tersedia.</p>
 <p>Berikut ini adalah cara melewati link Subs4unlock di adirga.com</p>
 <ol class="step">
   <li>pertama buka link yang ingin kalian tuju (pastikan kalian membukanya di chorome atau browser lain)</li>
