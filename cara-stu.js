@@ -1,7 +1,7 @@
 document.getElementById("cara-link").innerHTML = `
 <p class="note wr notranslate">Link yang anda tuju tidak tersedia.</p>
 <p>Berikut ini adalah cara melewati link Subs4unlock di adirga.com</p>
-<ol class="step">
+<ol class="step noList">
   <li>pertama buka link yang ingin kalian tuju (pastikan kalian membukanya di chorome atau browser lain)</li>
   <li>Jika sudah muncul seperti ini tunggu sampai proses generating link selesai,kira kira sekitar 3detik. 
     <div class="separator" style="clear: both;"><img alt="" border="0" data-original-height="589" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinonRZ3utCPCMKB5JkuuhXyMnCPjy_CROgwkjoiY6cuFqMQuCG-ywhmYKR8MgapQUdLWVPClFR7nYVMymrFi3xQhDXPqk9IM5wsMoP8OvMVxsFLwNH4r9qKvCxqr0k3kpog0j-zXW6kEssXTvJ-p-svMpWPSKv3RACV9UuQu95QLPM43lLO7f4vbhOG8lj/s1600/IMG_20231002_124622.jpg"/></div></li>
